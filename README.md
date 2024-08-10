@@ -79,6 +79,20 @@ This project is a Flask-based web application that processes uploaded images to 
 - `static/uploads/`: Directory to store uploaded and processed images.
 - `static/img/`: Directory for reference images used in processing.
 
+## Sample Screenshots:
+- Please upload the desktop based screenshots of similar dimensions in order to obtain best results.
+
+  ![Screenshot 2024-07-11 204737](https://github.com/user-attachments/assets/9297b47e-2131-43e3-93a1-48d7c3632956)
+
+  ![Screenshot 2024-07-11 210400](https://github.com/user-attachments/assets/ea065a17-7b47-4f28-9e42-b5c08d1fbdd8)
+
+  ![Screenshot 2024-07-11 222130](https://github.com/user-attachments/assets/5f69a660-742b-4701-b899-189229d00f89)
+
+
+  
+
+
+
 ## Important Functions
 
 - `process_screenshot(image_path)`: Processes the uploaded image to extract features and return them.
