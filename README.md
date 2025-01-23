@@ -107,9 +107,9 @@ This project is a Flask-based web application that processes uploaded images to 
 
 ## Troubleshooting
 
-- Ensure all required packages are installed.
-- Check the paths for pre-trained models and reference images.
-- Verify the Flask server is running and accessible at the specified URL.
+- Ensure all required packages are installed
+- Check the paths for pre-trained models and reference images
+- Verify the Flask server is running and accessible at the specified URL
 
 ## Contributing
 
